@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150413073829",
+    "firebase_url": "https://electech-ee213-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "electech-ee213",
+    "storage_bucket": "electech-ee213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150413073829:android:ca0b1a670b160e1a9adc4c",
+        "android_client_info": {
+          "package_name": "com.example.electech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150413073829-grst0934v9hmn6sh5lqt6ojabntdetrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electech",
+            "certificate_hash": "d5222de8dc1297e65a81f97ad9a4a645aa92bf92"
+          }
+        },
+        {
+          "client_id": "150413073829-482pkq724s0iki473pmq7hmmvthofkn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmxtk1X3mD0kMw4yXxOfJWjK470MqVao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150413073829-482pkq724s0iki473pmq7hmmvthofkn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150413073829-1br43bbvtm3q477eplrq3jattkm870j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.electech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
